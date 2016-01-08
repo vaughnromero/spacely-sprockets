@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Sprocket Management">2063bbca4fb41200888e4fa18110c792</application>
+        <filter/>
+        <name>Sprockets</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>sn_sprocket_manage_sprocket_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>vaughn.romero@snc</sys_created_by>
+        <sys_created_on>2016-01-08 19:18:41</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e463bbca4fb41200888e4fa18110c792</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sprockets</sys_name>
+        <sys_package display_value="Sprocket Management" source="sn_sprocket_manage">c3a2bbca4fb41200888e4fa18110c78c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Sprocket Management">c3a2bbca4fb41200888e4fa18110c78c</sys_scope>
+        <sys_update_name>sys_ui_module_e463bbca4fb41200888e4fa18110c792</sys_update_name>
+        <sys_updated_by>vaughn.romero@snc</sys_updated_by>
+        <sys_updated_on>2016-01-08 19:18:41</sys_updated_on>
+        <table>sn_sprocket_manage_sprocket</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

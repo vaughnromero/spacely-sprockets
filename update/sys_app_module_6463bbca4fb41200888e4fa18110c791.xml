@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Sprocket Management">e863bbca4fb41200888e4fa18110c790</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Sprockets</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sn_sprocket_manage_sprocket</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>sn_sprocket_manage_sprocket_user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>vaughn.romero@snc</sys_created_by>
+        <sys_created_on>2016-01-08 19:18:41</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6463bbca4fb41200888e4fa18110c791</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sprockets</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Sprocket Management" source="sn_sprocket_manage">c3a2bbca4fb41200888e4fa18110c78c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Sprocket Management">c3a2bbca4fb41200888e4fa18110c78c</sys_scope>
+        <sys_update_name>sys_app_module_6463bbca4fb41200888e4fa18110c791</sys_update_name>
+        <sys_updated_by>vaughn.romero@snc</sys_updated_by>
+        <sys_updated_on>2016-01-08 19:18:41</sys_updated_on>
+        <timeline_page/>
+        <title>Sprockets</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

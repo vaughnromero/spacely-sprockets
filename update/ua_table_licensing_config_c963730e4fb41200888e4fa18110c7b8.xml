@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <name>sn_sprocket_manage_sprocket</name>
+        <owner_condition table="sn_sprocket_manage_sprocket">sys_created_by=javascript:gs.getUserName()^EQ<item endquery="false" field="sys_created_by" goto="false" newquery="false" operator="=" or="false" value="javascript:gs.getUserName()"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </owner_condition>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>vaughn.romero@snc</sys_created_by>
+        <sys_created_on>2016-01-08 19:18:43</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c963730e4fb41200888e4fa18110c7b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_sprocket_manage_sprocket</sys_name>
+        <sys_package display_value="Sprocket Management" source="sn_sprocket_manage">c3a2bbca4fb41200888e4fa18110c78c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Sprocket Management">c3a2bbca4fb41200888e4fa18110c78c</sys_scope>
+        <sys_update_name>ua_table_licensing_config_c963730e4fb41200888e4fa18110c7b8</sys_update_name>
+        <sys_updated_by>vaughn.romero@snc</sys_updated_by>
+        <sys_updated_on>2016-01-08 19:18:43</sys_updated_on>
+        <table display_value="Sprocket" name="sn_sprocket_manage_sprocket">4613ffca4fb41200888e4fa18110c74c</table>
+    </ua_table_licensing_config>
+</record_update>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="cmdb_ci" label="Sprocket" max_length="40" name="sn_sprocket_manage_sprocket" type="collection"/>
+</database>

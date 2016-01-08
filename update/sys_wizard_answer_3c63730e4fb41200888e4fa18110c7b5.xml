@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Sprocket</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Sprocket</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Base Configuration Item" name="Base Configuration Item">5fd7864e4fb01200888e4fa18110c72c</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>vaughn.romero@snc</sys_created_by>
+        <sys_created_on>2016-01-08 19:18:42</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>3c63730e4fb41200888e4fa18110c7b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sprocket</sys_name>
+        <sys_package display_value="Sprocket Management" source="sn_sprocket_manage">c3a2bbca4fb41200888e4fa18110c78c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Sprocket Management">c3a2bbca4fb41200888e4fa18110c78c</sys_scope>
+        <sys_update_name>sys_wizard_answer_3c63730e4fb41200888e4fa18110c7b5</sys_update_name>
+        <sys_updated_by>vaughn.romero@snc</sys_updated_by>
+        <sys_updated_on>2016-01-08 19:18:42</sys_updated_on>
+        <table/>
+        <target_url>sn_sprocket_manage_sprocket.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
